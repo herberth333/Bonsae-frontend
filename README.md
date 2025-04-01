@@ -9,8 +9,8 @@ Antes de iniciar, verifique se possui os seguintes requisitos instalados em sua 
 
 ### 1. Clonar o Repositório
 ```sh
- git clone <URL_DO_REPOSITORIO>
- cd <NOME_DO_PROJETO>
+ git clone <(https://github.com/Gu1lLherme/SQUAD-8.git)>
+ cd <client-bonsae>
 ```
 ### 2. Instalar Dependências
 Se estiver usando npm:
