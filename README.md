@@ -1,34 +1,5 @@
-# Documentação para Rodar o Projeto bonsae
+# Vue 3 + TypeScript + Vite
 
-## Requisitos
-Antes de iniciar, verifique se possui os seguintes requisitos instalados em sua máquina:
+This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-- [Node.js](https://nodejs.org/) (versão recomendada: LTS)
-
-## Passos para Rodar o Projeto
-
-### 1. Clonar o Repositório
-```sh
- git clone <(https://github.com/Gu1lLherme/SQUAD-8.git)>
- cd <client-bonsae>
-```
-### 2. Instalar Dependências
-Se estiver usando npm:
-```sh
-npm install
-```
-### 3. Executar o Servidor de Desenvolvimento
-Se estiver usando npm:
-```sh
-npm run dev
-```
-Por padrão, o projeto será iniciado em `http://localhost:5173/`.
-
-## Compilar para Produção
-Se desejar compilar o projeto para produção, execute:
-```sh
-npm run build
-```
-O servidor iniciará local para visualizar a versão compilada do projeto.
-
-
+Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
